@@ -1,5 +1,5 @@
 # billete-animado
-this is a Dollar bill prank a website
+this is a Dollar bill animation website
 
 ![GitHub watchers](https://img.shields.io/github/watchers/carltsdev/broma-de-billete-animado?color=green&label=views&logoColor=green)
 
